@@ -1,4 +1,7 @@
 numpy
 matplotlib
+pandas
+seaborn
 ipywidgets
 jupyter_contrib_nbextensions
+jupyter_jsmol
