@@ -1,3 +1,8 @@
+Below is deprecated; [the official repo for this extension](https://github.com/fekad/jupyter-jsmol) now has binder launchable sessions. Go [there](https://github.com/fekad/jupyter-jsmol) and press `launch binder` on that page.
+
+-------------
+--------------
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/jupyter-jsmol-binder/master?filepath=index.ipynb)
 
 
