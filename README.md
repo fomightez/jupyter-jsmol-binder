@@ -13,6 +13,6 @@ Click a 'launch binder' badge on this page to begin an active session where the 
 Technical note
 --------------
 
-Simply, installing the extension in a running Binder session with pip didn't work, despite the ease the documentation suggesting that. Forunately the use of `requirements.txt` and `postBuild` enable installing and enabling properly.
+Simply, installing the extension in a running Binder session with pip didn't work, despite the documentation suggesting that. Forunately the use of `requirements.txt` and `postBuild` enable installing and enabling properly.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/jupyter-jsmol-binder/master?filepath=index.ipynb)
